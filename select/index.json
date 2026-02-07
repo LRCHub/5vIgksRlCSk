@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "チーズケーキクライシス",
+  "base_artist": "TOKOTOKO(西沢さんP)",
+  "createdAt": "2026-02-07T07:02:42.361127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チーズケーキクライシス",
+      "artist": "TOKOTOKO",
+      "has_synced": false,
+      "path": "select/01_チーズケーキクライシス_TOKOTOKO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チーズケーキクライシス",
+      "artist": "TOKOTOKO(西沢さんP) feat.GUMI",
+      "has_synced": false,
+      "path": "select/02_チーズケーキクライシス_TOKOTOKO(西沢さんP)_feat.GUMI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "チーズケーキクライシス",
+      "artist": "TOKOTOKO feat. GUMI",
+      "has_synced": false,
+      "path": "select/03_チーズケーキクライシス_TOKOTOKO_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "チーズケーキクライシス",
+      "artist": "VA",
+      "has_synced": false,
+      "path": "select/04_チーズケーキクライシス_VA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チーズケーキクライシス",
+      "artist": "TOKOTOKO(西沢さんP)",
+      "has_synced": false,
+      "path": "select/pl_01_チーズケーキクライシス_TOKOTOKO(西沢さんP).txt"
+    }
+  ]
+}
